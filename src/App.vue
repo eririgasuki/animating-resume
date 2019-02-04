@@ -115,7 +115,7 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `方应杭
+        fullMarkdown: `祝长洪
 ----
 
 初级前端工程师，现在在 [饥人谷](http://jirengu.com) 学习前端课程。

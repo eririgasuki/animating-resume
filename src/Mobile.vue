@@ -128,7 +128,7 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `方应杭
+        fullMarkdown: `祝长洪
 ----
 
 初级前端工程师，
