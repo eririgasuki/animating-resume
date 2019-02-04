@@ -25,8 +25,8 @@
           `/*
 * Inspired by http://strml.net/
 * 大家好，我是方方
-* 二月了，好多公司都在招聘
-* 你是不是也在准备简历呀。
+* 第一次看到会动的简历被酷炫的效果闪瞎了
+* 于是就想也模仿一份。
 * 说做就做，我也来写一份简历！
 */
 
@@ -131,33 +131,32 @@ html{
         fullMarkdown: `方应杭
 ----
 
-资深前端工程师，资深前端讲师
-现在在 [饥人谷](http://jirengu.com) 教前端课程。
+初级前端工程师，
+现在在 [饥人谷](http://jirengu.com) 学习前端课程。
+
 
 技能
 ----
 
 * 前端开发
-* Rails 开发
+* python开发
 * Node.js 开发
-* 前端授课
+* 自动化脚本开发
 
-工作经历
+项目展示
 ----
 
-1. [饥人谷](http://jirengu.com)
-2. 腾讯即时通讯平台部
-3. 阿里巴巴B2B部门
-4. 彩程知人项目组
+1. 导航网站
+2. 画板
+3. 轮播图
+4. 自动挂机脚本
 
 链接
 ----
 
-* [GitHub](https://github.com/frankfang)
-* [我的文章](https://www.zhihu.com/people/zhihusucks/pins/posts)
+* [GitHub](https://github.com/eririgasuki)
+* [我的文章](https://eririgasuki.github.io/)
 
-> 如果你喜欢这个效果，
-Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
 
 `
       }
